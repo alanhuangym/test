@@ -1,14 +1,14 @@
 import os
 import path
 
-def cout:
+def cout():
 	sum = 0
 	for i in range(i):
 		sum += i
 	print 'cout',sum
 cout()
 
-def pri:
+def pri():
 	sum = 0
 	for i in range(i):
 		sum += i
