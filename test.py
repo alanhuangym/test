@@ -1,6 +1,4 @@
 import os
-import path
-
 def cout():
 	sum = 0
 	for i in range(i):
