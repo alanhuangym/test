@@ -1,4 +1,5 @@
 import os
-print 'hello world'
-print 'hello world 2'
-print 'hello 3'
+impott time
+for i in range(100):
+	print 'hello',i
+	time.sleep(2) 
