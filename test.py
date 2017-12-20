@@ -1,7 +1,7 @@
 import os
 def cout():
 	sum = 0
-	for i in range(10):
+	for i in range(20):
 		sum += i
 	print 'cout',sum
 cout()
